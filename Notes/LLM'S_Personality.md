@@ -207,7 +207,7 @@ The study introduces **Personality Prompting (P2)** as a method to induce specif
 
 ---
 
-## **7. Conclusion & Future Directions**
+## **6. Conclusion & Future Directions**
 - LLMs **demonstrate personality-like traits** that can be systematically measured and modified.
 - Future research could explore:
   - The impact of induced personalities on downstream tasks.
